@@ -1,0 +1,20 @@
+2020-08-11T13:07:26+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\extensions\blocks\image-compare\image-compare.php on line 1
+
+2020-08-11T13:07:26+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\extensions\blocks\image-compare\image-compare.php on line 1
+
+2020-08-11T13:07:26+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\extensions\blocks\markdown\markdown.php on line 1
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+
+2020-08-11T13:07:29+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 870
+

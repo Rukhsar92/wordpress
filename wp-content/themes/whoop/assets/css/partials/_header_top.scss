@@ -1,0 +1,118 @@
+#site-header{
+
+  .header-top{
+    display: flex;
+    flex-wrap: nowrap;
+
+    .header-top-item{
+      padding: 0;
+      //margin: 15px 0;
+      margin: auto 0;
+    }
+    .site-logo-wrap{
+
+      width: auto;
+    }
+    .header-search{
+      display: inline-block;
+      flex: 1;
+      padding: 0 10px;
+      .geodir-search-container{
+        .geodir-loc-bar{
+          margin: 0;
+          padding: 0;
+          border: none;
+
+          .geodir-loc-bar-in{
+            padding: 0;
+            border: none;
+            background: none;
+            .geodir-search{
+
+              .gd-suggestions-dropdown{
+                z-index: 5000;
+              }
+
+              &>div,&>button{
+                padding: 0;
+                margin: 0 !important;
+              }
+
+              input,select{
+                border-radius: 0;
+                border: none;
+              }
+
+              .gd-search-input-wrapper{
+                &:after{
+                  content: '';
+                  width: 1px;
+                  position: absolute;
+                  right: 0;
+                  top: 20%;
+                  background-color: #e6e6e6;
+                  height: 60%;
+                }
+              }
+              div.gd-search-input-wrapper{
+                &:first-of-type{
+                  input,select{
+                    border-top-left-radius: 3px;
+                    border-bottom-left-radius: 3px;
+                  }
+                }
+              }
+
+              .geodir_submit_search{
+                border: none;
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+              }
+              .geodir-show-filters{
+                display: none;
+                border: none;
+              }
+
+            }
+          }
+        }
+
+        //&.geodir-advance-search-default{
+        //  .geodir_submit_search{
+        //    border-radius: 0;
+        //  }
+        //  .geodir-show-filters{
+        //    border-top-left-radius: 0;
+        //    border-bottom-left-radius: 0;
+        //
+        //  }
+        //}
+
+      }
+
+
+    }
+
+  }
+
+  .header-credits{
+    margin: 0;
+    position: absolute;
+    bottom:0;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: block;
+    text-align: center;
+    color:#fff;
+    p{
+      margin: 0;
+      line-height: 18px;
+      a{
+        font-weight: bold;
+      }
+    }
+
+  }
+
+}

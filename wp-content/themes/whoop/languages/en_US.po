@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whoop 2.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-30 16:10+0530\n"
+"PO-Revision-Date: 2020-01-30 16:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: AyeCode Ltd <contact@ayecode.io>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_n_noop:1,2;"
+"_nx:1,2;_nx_noop:1,2;_x;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:17
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:18
+#, php-format
+msgid "Copyright &copy; %1$s %2$s %3$s Theme %4$s"
+msgstr ""
+
+#: functions.php:19
+#, php-format
+msgid " - Powered by %s."
+msgstr ""
+
+#: geodirectory-archive.php:34 geodirectory-single-new.php:42
+#: geodirectory-single.php:35 geodirectory.php:31 page-whoop.php:18
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:79
+msgid "GD Dashboard"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:81
+msgid "Login"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:211
+msgid "Content updated successfully."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:213
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:233
+msgid "Rating style updated successfully."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:248
+msgid "Reviews tab order updated successfully."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:263
+msgid "Whoop Content"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:271
+msgid "Home page, create and set content (should only be run once)"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:272
+msgid "Details page"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:273
+msgid "Archive item page"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:274
+msgid "Archive page"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:275
+msgid "Search page"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:276
+msgid "Location page"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:282
+msgid "Description"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:283
+msgid "Action"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:301
+msgid "Create page & content"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:301
+msgid "Set page content"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:317
+msgid "Rating icon style, change to Whoop style."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:322
+msgid "Set rating style"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:332
+msgid "Set details page reviews tab to be shown first."
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:337
+msgid "Set tabs order"
+msgstr ""
+
+#: includes/class-whoop-geodirectory-content.php:354
+msgid "This will replace the page content with one specific to the theme."
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:153
+#, php-format
+msgid "Photo by %s"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:383
+msgid "Hero Area Settings"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:397
+msgid "Auto"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:398
+msgid "Featured image"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:399
+msgid "Video"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:400
+msgid "Gallery"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:401
+msgid "Listing images (GeoDirectory)"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:404
+msgid "Show:"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:414
+msgid "ID: (video id / attachments ids: 123,456,789)"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:417
+msgid "Time: (time between images, 8000 =  8 seconds)"
+msgstr ""
+
+#: includes/class-whoop-hero-background.php:420
+msgid "Brightness: (how bright the background is, default 50%)"
+msgstr ""
+
+#: includes/class-whoop-menus.php:69
+msgid "Home menu"
+msgstr ""
+
+#: includes/class-whoop-menus.php:70
+msgid "Home middle menu"
+msgstr ""
+
+#: includes/class-whoop-menus.php:71
+msgid "User menu"
+msgstr ""
+
+#: template-parts/content/404.php:4
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content/404.php:9
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: template-parts/content/404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/content/archive-top.php:34
+msgid "All Filters"
+msgstr ""
+
+#: template-parts/content/directory-content.php:13
+#: template-parts/content/single.php:13
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/directory-content.php:22
+#: template-parts/content/home.php:9 template-parts/content/single.php:22
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content/share.php:3
+msgid "Share Business"
+msgstr ""
+
+#: template-parts/content/share.php:13
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/content/share.php:22
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/content/share.php:32
+msgid "I thought you might like:"
+msgstr ""
+
+#: template-parts/content/share.php:33
+msgid "Share via Email"
+msgstr ""
+
+#: template-parts/content/single-top-buttons.php:3
+msgid "Write a review"
+msgstr ""
+
+#: template-parts/content/single-top-buttons.php:19
+msgid "Add photo"
+msgstr ""
+
+#: template-parts/content/single-top-buttons.php:30
+msgid "Share"
+msgstr ""
+
+#: template-parts/content/single-top-claim.php:5
+msgid "Unclaimed"
+msgstr ""
+
+#: template-parts/content/single-top-claim.php:12
+msgid "Claimed"
+msgstr ""
+
+#: template-parts/menu/primary.php:16
+msgid "Add a main menu and it will show here"
+msgstr ""
+
+#: template-parts/menu/user.php:22
+msgid "My Account"
+msgstr ""
+
+#: template-parts/menu/user.php:26
+msgid "Log out"
+msgstr ""
+
+#: template-parts/menu/user.php:38
+msgid "Log in"
+msgstr ""
+
+#: template-parts/menu/user.php:41
+msgid "Sign up"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Location"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Enter Your Location"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "GT > Location Select"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Select Location"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Homepage Location description"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Location Settings"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Location database checks"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Select location order"
+#~ msgstr "'Lokácia"

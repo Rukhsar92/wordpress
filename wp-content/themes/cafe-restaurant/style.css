@@ -1,0 +1,46 @@
+/*
+Theme Name: Cafe Restaurant
+Description: Cafe Restaurant is a Responsive, SEO friendly, and fast to load WordPress theme. It is specially designed for cafe, bar, food, hotel, restaurant business, and similar websites. User does not need any coding skills or to start from scratch by using Cafe Restaurant WordPress theme. It comes with ready-made demo websites in different variations so users can easily and quickly import the demo of the Cafe Restaurant website and start placing their own contents. It comes with 30+ ready-made demo websites and also has a demo website for bar, cafe, hotel, and restaurant. Cafe Restaurant WordPress theme is fully compatible with the WooCommerce plugin so the user can sell their products on the website using the Cafe Restaurant WordPress theme. It also adds additional eCommerce options to customize features of the WooCommerce plugin. Moreover, the Cafe Restaurant WordPress theme adds an additional menu in the footer section above the footer widget so the user can easily add more useful links in the footer. Footer menu also comes with typography options so users can change font family, font size, letter spacing, letter margin, etc. and makes its looks more attractive easily. It also allows the user to add recent posts slider and posts slider base on the selected category so the user can display their posts in the slider instead normal list. Cafe Restaurant theme is a fully responsive theme and fits in all types of devices. It uses the latest version of a responsive framework known as Bootstrap 4. This theme is totally SEO friendly and follows the recommended page structure that will help to rank user website on the search engines. It also includes the structured data so search engines can easily understand about content of each page. You can add FAQ, article, Organization, etc. structure data. Moreover, it allows you to add recipes and review structure data. Restaurant Cafe is a page builder friendly theme. It works with all popular page builder plugin like Elementor, Visual Composer, Site Origin, etc. It also comes with the Full-Width page template so users can display page builder contents without extra spacing. User can find all the color options in the Cafe Restaurant WordPress theme and these color options are totally free. no additional plugin is needed for color options. Moreover, it allows users to design there owns custom colors in the Hexa format. Restaurant Cafe comes with multiple website layouts like Left Sidebar, Right Sidebar, Full Width, Custom Container Width, Boxed layout, etc.
+Version: 1.0
+Requires at least: 4.7
+Tested up to: 5.4.2
+Requires PHP: 5.3
+Author: DiThemes
+Author URI: https://dithemes.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks, food-and-drink, blog, e-commerce
+Text Domain: cafe-restaurant
+Template: di-multipurpose
+*/
+
+
+/* Style the footer menu, additional style through customize like typography */
+.footer-nav-footer-menu {
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+
+.footer-nav-footer-menu li {
+	display: inline-block;
+	padding: 12px;
+}
+
+.footer-nav-footer-menu li a {
+	letter-spacing: 1px;
+}
+
+/* Style the slider */
+.rpctitleouttr {
+	position: relative;
+	top: 0;
+	background-color: #efefef82;
+	padding: 20px;
+	margin: 0 auto;
+	display: table;
+	width: 100%;
+	text-align: center;
+}
+
+

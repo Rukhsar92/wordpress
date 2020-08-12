@@ -1,0 +1,33 @@
+@import "partials/wp";
+@import "partials/hero";
+@import "partials/hero_background";
+@import "partials/menu";
+@import "partials/menu_user";
+@import "partials/menu_home_middle";
+@import "partials/header_top";
+@import "partials/content";
+@import "partials/content_top";
+@import "partials/content_top_single";
+@import "partials/share";
+@import "partials/content_archive";
+@import "partials/content_single";
+@import "partials/listings";
+@import "partials/paging";
+@import "partials/ratings";
+@import "partials/footer";
+@import "partials/sidebar";
+@import "partials/comments";
+@import "partials/reviews";
+
+
+// Responsive
+@import "responsive/992up";
+@import "responsive/992down";
+@import "responsive/768down";
+@import "responsive/660down";
+@import "responsive/480down";
+@import "responsive/420down";
+
+body{
+  background: #fff;
+}
